@@ -2,10 +2,11 @@
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
 [default]
-account = "myaccount"
-user = "myuser"
-password = "mypassword"
-role = "HOL_ROLE"
+account = "uiiafux-dd04772"
+user = "qsong"
+password = "WWfreemind1"
+role = "ACCOUNTADMIN"
 warehouse = "HOL_WH"
 database = "HOL_DB"
 schema = "ANALYTICS"
+
